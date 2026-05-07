@@ -1,4 +1,9 @@
 **Demo**
+# 📊 FLowbit- CFO Causal Engine
+
+[![View Live Demo](https://img.shields.io/badge/View_Live_Demo-purple?style=for-the-badge&logo=github)](https://sogolmalek.github.io/Financial-mesh-demo/)
+
+Welcome to the Flowbit demo-A financial mesh prodcut
 This demo isn't a dashboard; it’s a Causal Graph Simulation. The entire premise of the code is built on one financial reality: ERPs lie. Accounting software looks at a snapshot in time (P&L, Balance Sheet), but liquidity is a continuous flow dictated by operational friction.
 
 Here is the financial breakdown of the scenarios this code actually models, tab by tab, and how they mathematically destroy or create value.
